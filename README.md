@@ -3,7 +3,6 @@ A simple App to perform image switching using event handling.
 A fun and interactive mobile application that allows users to switch between various adorable animal images with smooth animations and event handling features. Built with love as part of the Mobile Application Development (MAD) project.
 
 Features:
-
 Feature	<-> Description
 
 * Image Switcher <->	Uses ImageSwitcher to toggle between images dynamically.
@@ -21,28 +20,28 @@ Feature	<-> Description
 
 Tech Stack
 
-Language: Java
+->Language: Java
 
-Framework: Android SDK
+->Framework: Android SDK
 
-Activity Type: Empty View Activity
+->Activity Type: Empty View Activity
 
-Animations: AnimationUtils (fade_in.xml / fade_out.xml)
+->Animations: AnimationUtils (fade_in.xml / fade_out.xml)
 
-Handler: Used for auto-slide with 5s interval
+->Handler: Used for auto-slide with 5s interval
 
-Device: Built and tested on a Mac (Android Studio)
+->Device: Built and tested on a Mac (Android Studio)
 
 
 How to Run the App
 
-Clone the repository or download the ZIP.
+1. Clone the repository or download the ZIP.
 
-Open the project in Android Studio.
+2. Open the project in Android Studio.
 
-Sync Gradle and run the app on an emulator or a physical Android device.
+3. Sync Gradle and run the app on an emulator or a physical Android device.
 
-Enjoy switching between adorable animals and more!
+4. Enjoy switching between adorable animals and more!
 
 
 Developed By;
