@@ -18,6 +18,7 @@ Feature	<-> Description
   
 * Polished UI <->	Styled buttons, icons, and a visually engaging layout.
 
+
 Tech Stack
 
 Language: Java
@@ -32,6 +33,7 @@ Handler: Used for auto-slide with 5s interval
 
 Device: Built and tested on a Mac (Android Studio)
 
+
 How to Run the App
 
 Clone the repository or download the ZIP.
@@ -42,9 +44,11 @@ Sync Gradle and run the app on an emulator or a physical Android device.
 
 Enjoy switching between adorable animals and more!
 
+
 Developed By;
 
 Tanika C Thodker
+
 
 Contact:
 Got ideas or feedback?
