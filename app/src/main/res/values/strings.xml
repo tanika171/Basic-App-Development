@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Animal Gaze</string>
+    <string name="image_caption">Animal Name</string>
+    <string name="like_button_desc">Like this image</string>
+    <string name="likes_count">Likes: %d</string>
+    <string name="first">First</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="last">Last</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="start_slideshow">Start Slideshow</string>
+    <string name="stop_slideshow">Stop Slideshow</string>
+    <string name="toggle_mode">Toggle Mode</string>
+    <string name="image_info">Image Information</string>
+    <string name="image_status">Image %1$d of %2$d</string>
+    <string name="shuffle_mode">Shuffle Mode</string>
+    <string name="sequential_mode">Sequential Mode</string>
+    <string name="normal_mode">Normal Mode</string>
+    <string name="full_screen_image_desc">Image displayed in full screen</string>
+    <string name="full_screen_image">Full Screen Image</string>
+    <string name="back">Back</string>
+
+</resources>

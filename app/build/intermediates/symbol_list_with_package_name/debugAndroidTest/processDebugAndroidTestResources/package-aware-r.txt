@@ -1,0 +1,3 @@
+com.example.imageswitcherapp.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

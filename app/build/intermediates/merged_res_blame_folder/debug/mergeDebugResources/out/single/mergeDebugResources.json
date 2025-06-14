@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal3.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal3.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.imageswitcherapp-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal11.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal11.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/layout_activity_full_screen_image.xml.flat",
+        "source": "com.example.imageswitcherapp-main-34:/layout/activity_full_screen_image.xml"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal21.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal21.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal27.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal27.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_ic_back.xml.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal6.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal6.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.imageswitcherapp-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal24.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal24.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal14.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal14.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.imageswitcherapp-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal13.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal13.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/anim_out_animation.xml.flat",
+        "source": "com.example.imageswitcherapp-main-34:/anim/out_animation.xml"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.imageswitcherapp-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.imageswitcherapp-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.imageswitcherapp-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal5.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal5.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.imageswitcherapp-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_baseline_favorite_border_24.xml.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/baseline_favorite_border_24.xml"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.imageswitcherapp-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal23.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal23.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.imageswitcherapp-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal22.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal22.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal19.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal19.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal4.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal4.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal29.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal29.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal12.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal12.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.imageswitcherapp-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal28.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal28.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.imageswitcherapp-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.imageswitcherapp-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal25.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal25.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal7.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal7.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal15.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal15.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal30.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal30.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.imageswitcherapp-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal2.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal2.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_ic_arrow_left.xml.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/ic_arrow_left.xml"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.imageswitcherapp-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal10.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal10.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal18.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal18.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal20.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal20.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/anim_in_animation.xml.flat",
+        "source": "com.example.imageswitcherapp-main-34:/anim/in_animation.xml"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal1.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal1.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_button_border.xml.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/button_border.xml"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal17.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal17.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal9.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal9.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_baseline_favorite_24.xml.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/baseline_favorite_24.xml"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal16.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal16.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal26.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal26.jpeg"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.imageswitcherapp-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.imageswitcherapp-debug-32:/drawable_animal8.jpeg.flat",
+        "source": "com.example.imageswitcherapp-main-34:/drawable/animal8.jpeg"
+    }
+]

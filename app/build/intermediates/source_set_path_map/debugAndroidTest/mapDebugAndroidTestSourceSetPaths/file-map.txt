@@ -1,0 +1,5 @@
+com.example.imageswitcherapp.test.app-core-1.6.1-0 /Users/thodker/.gradle/caches/8.10.2/transforms/630cc4b73742e790d7f9b05ad5508ce5/transformed/core-1.6.1/res
+com.example.imageswitcherapp.test.app-androidTest-1 /Users/thodker/AndroidStudioProjects/ImageSwitcherApp/app/build/generated/res/resValues/androidTest/debug
+com.example.imageswitcherapp.test.app-mergeDebugAndroidTestResources-2 /Users/thodker/AndroidStudioProjects/ImageSwitcherApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.imageswitcherapp.test.app-mergeDebugAndroidTestResources-3 /Users/thodker/AndroidStudioProjects/ImageSwitcherApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.imageswitcherapp.test.app-debugAndroidTest-4 /Users/thodker/AndroidStudioProjects/ImageSwitcherApp/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
