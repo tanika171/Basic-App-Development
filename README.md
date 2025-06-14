@@ -18,19 +18,20 @@ Feature	<-> Description
 * Polished UI <->	Styled buttons, icons, and a visually engaging layout.
 
 
+
 Tech Stack
 
-->Language: Java
+-> Language: Java
 
-->Framework: Android SDK
+-> Framework: Android SDK
 
-->Activity Type: Empty View Activity
+-> Activity Type: Empty View Activity
 
-->Animations: AnimationUtils (fade_in.xml / fade_out.xml)
+-> Animations: AnimationUtils (fade_in.xml / fade_out.xml)
 
-->Handler: Used for auto-slide with 5s interval
+-> Handler: Used for auto-slide with 5s interval
 
-->Device: Built and tested on a Mac (Android Studio)
+-> Device: Built and tested on a Mac (Android Studio)
 
 
 How to Run the App
